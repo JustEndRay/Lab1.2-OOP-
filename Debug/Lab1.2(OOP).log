@@ -1,0 +1,14 @@
+﻿  Triangle.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.h(13,28): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.h(14,28): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.h(15,28): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.h(16,28): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.h(17,28): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.h(18,28): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.cpp(79,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.cpp(79,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.cpp(79,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.cpp(79,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.cpp(79,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Triangle.cpp(79,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab1.2(OOP).vcxproj -> D:\Рабочий стол\дз\2семестр\ООП\Лаб 1.1-1.8\Lab1.2(OOP)\Debug\Lab1.2(OOP).exe
